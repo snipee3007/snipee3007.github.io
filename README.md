@@ -1,2 +1,2 @@
-# snipee3007.githup.io
+# snipee3007.github.io
 Nothing here

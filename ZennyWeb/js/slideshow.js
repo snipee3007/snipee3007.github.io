@@ -677,7 +677,7 @@ $.fn.cycle.defaults = {
     speed:            500,
     startingSlide:    0,
     sync:             true,
-    timeout:          4000,
+    timeout:          6000,
     updateView:       0
 };
 

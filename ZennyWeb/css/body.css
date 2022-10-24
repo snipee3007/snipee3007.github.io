@@ -17,7 +17,7 @@ body > .left-body{
     float: left;
     margin:0px;
     padding:0px;
-    width: 24%;
+    width: 19%;
     height: auto;
 }
 
@@ -30,7 +30,7 @@ body > div.left-body > img {
 
 body > div.center-body{
     display:inline-block;
-    width: 50%;
+    width: 60%;
     height: 100%;
     margin: 0px;
     padding: 0px;
@@ -38,7 +38,7 @@ body > div.center-body{
 
 body > div.right-body{
     float: right;
-    width: 24%;
+    width: 19%;
     height: auto;
     margin: 0px;
     padding: 0px;

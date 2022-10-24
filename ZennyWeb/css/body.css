@@ -1,0 +1,51 @@
+.reset{
+    clear:both;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/lowpoly.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+body > .left-body{
+    float: left;
+    margin:0px;
+    padding:0px;
+    width: 24%;
+    height: auto;
+}
+
+body > div.left-body > img {
+    width: 50%;
+    display:block;
+    margin: auto;
+    height:auto;
+}
+
+body > div.center-body{
+    display:inline-block;
+    width: 50%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body > div.right-body{
+    float: right;
+    width: 24%;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+}
+body > div.right-body > img{
+    display:block;
+    width: 50%;
+    margin: auto;
+    height:auto;
+}

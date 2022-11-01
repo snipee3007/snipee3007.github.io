@@ -1,0 +1,12 @@
+.imagecontent > img{
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+}
+
+.headercourse{
+    background-image: url(../images/paper-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

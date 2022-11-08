@@ -1,0 +1,28 @@
+.headerHocLieu > .headerHocLieuContent{
+    font-family: mightywings;
+    text-align: center;
+    font-size:2em;
+    padding-top:15px;
+    padding-bottom:15px;
+    color: #00b8ff;
+}
+
+.HocLieuContent{
+    width:90%;
+    margin:auto;
+    font-size:1.2em;
+    padding:15px;
+    color: crimson;
+}
+
+.HocLieuContent > div.Online{
+    float: left;
+}
+
+.HocLieuContent > div.Page{
+    float:left;
+}
+
+.hrchanged{
+    width:90%;
+}

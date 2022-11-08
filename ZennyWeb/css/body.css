@@ -1,0 +1,70 @@
+.reset{
+    clear:both;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+body > .left-body{
+    float: left;
+    margin:0px;
+    padding:0px;
+    width: 14.9%;
+}
+
+body > div.left-body > img {
+    display:block;
+    width: 13vh;
+    margin: 0px;
+    padding: 0px;   
+    height:100vh;
+    position:fixed;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+body > div.center-body{
+    display:inline-block;
+    width: 70%;
+    height: 100%;
+    margin: 0px;
+    margin-left: 14.999%;
+    padding: 0px;
+    background-image: url(../images/lightyellow.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:none;
+}
+
+body > div.center-body{
+    display:inline-block;
+    width: 70%;
+    height: 100%;
+    margin: 0px;
+    margin-left: 14.999%;
+    padding: 0px;
+}
+
+body > div.right-body{
+    float:right;
+    width: 14.9%;
+    margin: 0px;
+    padding: 0px;
+}
+body > div.right-body > img{
+    display:block;
+    width: 13vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px;
+    height:100vh;
+    position:fixed;
+}

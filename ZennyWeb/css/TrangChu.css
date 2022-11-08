@@ -1,0 +1,123 @@
+
+
+.content-holder > article.content > main > .headercontentmain{
+    text-align: center;
+    padding:0px;
+    margin:0px;
+    width:100%;
+}
+
+.content-holder > article.content > main{
+    margin:0px;
+    padding:0px;
+}
+.content-holder{
+    padding:0px;
+    margin:0px;
+}
+
+.content-holder > article.content{
+    width:100%;
+    display:block;
+    padding:0px;
+    margin:0px;
+}
+
+.content-holder > article.content > main > .headercontentsub{
+    text-align: center;
+    padding:0px;
+    margin:0px;
+    width:100%;
+}
+
+ul.nonedeco{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+
+}
+
+div.leftsidecontent{
+    display:inline-block;
+    width:250px;
+}
+
+.content-holder > .content > main > ul > div.listGiatri > li{
+    display:block;
+    text-align: center;
+    margin-right:5%;
+    padding:0px;
+    border: 3px solid;
+    border-color:#529d7d;
+    font-size: 1.75em;
+    border-radius:15px;
+    padding:5px;
+    width:100%;
+    height:auto;
+    align-content: center;
+    margin-bottom:10px;
+    background-color:#529d7d;
+}
+
+
+.content-holder > .content > main > ul > div.listGiatri> li > div.Giatricontent{
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
+
+.content-holder > .content > main > ul > div.listGiatri> li > div.Giatricontent > p{
+ 
+    width:100%;
+    margin:0px;
+    padding:0px;
+    text-align: center;
+}
+.listGiatri{
+    width:100%;
+    display:flex;
+}
+
+.listGiatri > .Giatricontent{
+    display:inline-block;
+    width:70%;
+}
+.listGiatri > .borderp{
+    border-radius: 50%;
+    width:50px;
+    height:40px;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:50px;
+    margin-right:50px;
+    border:2px solid;
+    border-color: teal;
+    color:white;
+    background-color: teal;
+    display:inline-block;
+    font-size:2em;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.headstyle{
+    font-family:mightywings;
+}
+
+.headercontentmain{
+    font-size: 3em;
+    font-family: nvnvalky;
+    text-align:center;
+}
+
+.headercontentsub{
+    font-size:2em;
+    font-family: mightywings;
+    text-align:center;
+}
+.center-body > div.GiaTriCotLoi > section.content-holder > article.content > main > .headercontentsub{
+    margin: 15px;
+}
+
+
+
